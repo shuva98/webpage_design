@@ -98,3 +98,19 @@ a {
   background-color: #E5e7eb;
   margin: 20px -10px;
 }
+
+/* This is the contact part */
+
+.contact{
+  background-color: #3882f6;
+  margin: 20px 80px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+}
+
+.lcontact{
+  padding-left: 30px;
+  padding-bottom: px;
+  color: white;
+}

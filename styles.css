@@ -1,0 +1,55 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+/* header section */
+
+/* cheader */
+
+.cheader {
+  background-color: #1f2937;
+  padding-bottom: 70px;
+  margin: -7px;
+  
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  margin-left: 80px;
+}
+
+.hlogo {
+  font-size: 140%;
+  font-weight: 800;
+}
+
+.hlinks {
+  gap: 50px;
+  display: flex;
+  padding-top: 25px;
+  margin-right: 80px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+/* content header */
+
+.hcontent{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hcontent1{
+    padding-left: 80px;
+    width: 300px;
+}
+
+.hcontent2{
+    padding-right: 80px;
+    margin-top:45px;
+}

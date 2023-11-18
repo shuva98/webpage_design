@@ -1,6 +1,8 @@
 body {
   display: flex;
   flex-direction: column;
+  padding: 0;
+  margin: 0;
 }
 /* header section */
 
@@ -9,7 +11,7 @@ body {
 .cheader {
   background-color: #1f2937;
   padding-bottom: 70px;
-  margin: -7px;
+  margin: 0px;
   
 }
 
@@ -96,7 +98,7 @@ a {
   text-align: center;
   padding:75px 150px;
   background-color: #E5e7eb;
-  margin: 20px -10px;
+  margin: 20px 0px;
 }
 
 /* This is the contact part */
@@ -112,7 +114,7 @@ a {
 
 .lcontact{
   padding-left: 30px;
-  padding-bottom: px;
+  padding-bottom: 0px;
   color: white;
 }
 
@@ -120,7 +122,7 @@ a {
 
 .footer{
   background-color: #1f2937;
-  margin: -10px;
+  margin: 0px;
   text-align: center;
   color: #E5e7eb;
 }

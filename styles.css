@@ -53,3 +53,34 @@ a {
     padding-right: 80px;
     margin-top:45px;
 }
+
+/* Information 1 */
+
+.cont1{
+  text-align: center;
+  padding: 20px 0px;
+}
+
+.cont2{
+  display: flex;
+  padding: 0px 100px;
+}
+
+.imginfo1,.imginfo2,.imginfo3,.imginfo4{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 0px 10px;
+  margin-left: 50px;
+}
+.img1{
+  margin-left: 7px;
+}
+
+.img3{
+  margin-left: 9px;
+}
+
+.img4{
+  margin-left: 2px;
+}
